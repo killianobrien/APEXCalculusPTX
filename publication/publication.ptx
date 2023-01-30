@@ -9,7 +9,7 @@
     </source>
 
     <!-- <webwork server="https://webwork-dev.uleth.ca"/> -->
-    <webwork server=""/>
+    <!-- <webwork server=""/> -->
     <common>
       <tableofcontents level="3"/>
       <exercise-divisional hint="no" answer="no" solution="no"/>
