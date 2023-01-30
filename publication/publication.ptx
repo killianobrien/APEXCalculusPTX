@@ -8,8 +8,8 @@
         <version include="color video taypoly-late"/>
     </source>
 
-    <webwork server="https://webwork-dev.uleth.ca"/>
-
+    <!-- <webwork server="https://webwork-dev.uleth.ca"/> -->
+    <webwork server=""/>
     <common>
       <tableofcontents level="3"/>
       <exercise-divisional hint="no" answer="no" solution="no"/>
@@ -20,7 +20,7 @@
         <index-page ref="apex-calculus"/>
         <video privacy="yes"/>
         <!-- baseurl should not have a trailing slash -->
-        <baseurl href="https://opentext.uleth.ca/apex-video"/>
+        <baseurl href="https://killianobrien.github.io/APEXCalculusPTX"/>
         <knowl example="no"/>
         <asymptote links="yes"/>
         <webwork divisional="dynamic"/>
